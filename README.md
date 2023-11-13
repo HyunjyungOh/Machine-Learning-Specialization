@@ -58,6 +58,5 @@
      * <> [Collaborative Filtering Recommender Systems](C3_Unsupervised_ML/Week2/C3_W2_Collaborative_RecSys_Assignment.ipynb)
      * <> [Deep Learning for Content-Based Filtering](C3_Unsupervised_ML/Week2/C3_W2_RecSysNN_Assignment.ipynb) 
      * <> [PCA and data visualization](C3_Unsupervised_ML/Week2/C3_W2_Lab01_PCA_Visualization_Examples.ipynb) 
-* Week 3: Reinforcement Learning
-     * <> [State-action Value Function](C3_Unsupervised_ML/Week3/State-action value function example.ipynb)
+* Week 3: Reinforcement Learning 
      * <> [Reinforcement Learning](C3_Unsupervised_ML/Week3/C3_W3_A1_Assignment.ipynb)
